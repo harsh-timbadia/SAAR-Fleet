@@ -1,17 +1,17 @@
-Subsystem,Component,Quantity,Unit Price (INR),Total Price (INR)
-Compute & Vision,ESP32-S3 Development Board,2,899,1798
-Compute & Vision,ESP32-CAM Module,1,450,450
-Communications,SX1278 LoRa Module (433MHz),2,470,940
-Navigation,VL53L1X ToF LiDAR Sensor,6,443,2658
-Navigation,uBlox NEO-M8N GPS (Active Antenna),1,952,952
-Navigation,QMC5883L 3-Axis Digital Compass,1,125,125
-Drivetrain,BTS7960 43A High-Power Motor Driver,4,318,1272
-Drivetrain,4WD Off-Road Chassis Kit,1,800,800
-Power,High-Capacity 18650 Battery Pack + BMS,1,1256,1256
-Power,Active Solar Tracker (Panel/Servo/LDRs),1,350,350
-Agri-Sensing,7-in-1 Industrial RS485 Soil Sensor,1,3700,3700
-Agri-Sensing,MAX485 TTL to RS485 Serial Converter,1,25,25
-Dosing,Kamoer 12V Industrial Peristaltic Pump,2,1580,3160
-Dosing,4-Channel 5V Isolated Relay Module,1,300,300
-Dosing,Dual Fluid Reservoirs & Silicone Tubing,1,450,450
-
+Subsystem,Component,Quantity,Unit Price (INR),Total Price (INR),Total Price (USD)
+Compute & Vision,ESP32-S3 Development Board,2,899,1798,$19.03
+Compute & Vision,ESP32-CAM Module,1,450,450,$4.76
+Communications,SX1278 LoRa Module (433MHz),2,470,940,$9.95
+Navigation,VL53L1X ToF LiDAR Sensor,6,443,2658,$28.13
+Navigation,uBlox NEO-M8N GPS (Active Antenna),1,952,952,$10.08
+Navigation,QMC5883L 3-Axis Digital Compass,1,125,125,$1.32
+Drivetrain,BTS7960 43A High-Power Motor Driver,4,318,1272,$13.46
+Drivetrain,4WD Off-Road Chassis Kit,1,800,800,$8.47
+Power,High-Capacity 18650 Battery Pack + BMS,1,1256,1256,$13.29
+Power,Active Solar Tracker (Panel/Servo/LDRs),1,350,350,$3.70
+Agri-Sensing,7-in-1 Industrial RS485 Soil Sensor,1,3700,3700,$39.16
+Agri-Sensing,MAX485 TTL to RS485 Serial Converter,1,25,25,$0.26
+Dosing,Kamoer 12V Industrial Peristaltic Pump,2,1580,3160,$33.44
+Dosing,4-Channel 5V Isolated Relay Module,1,300,300,$3.17
+Dosing,Dual Fluid Reservoirs & Silicone Tubing,1,450,450,$4.76
+Grand Total,Complete SAAR-Fleet Build,-,-,18236,$193.00
