@@ -23,3 +23,4 @@ Instead of traditional uniform field spraying, SAAR-Fleet conducts localized soi
 3. Establish bidirectional serial packet transfer over the 433MHz LoRa link between the primary rover controller and the base station ESP32-S3.
 4. Integrate the MAX485 converter and write the Modbus-RTU parser to poll the 7-in-1 soil probe registers.
 5. Calibrate relay triggers for the peristaltic dosing pumps based on live pH and NPK thresholds.
+![IMG_20260825_234401.jpg](https://github.com/user-attachments/assets/c74051dc-b972-4598-b7c8-0867cd4ffc91)
